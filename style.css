@@ -1,0 +1,54 @@
+.header{
+    color:#0b132b;
+    text-align: center;
+    margin-top: 10px;
+}
+h3{
+    text-align: center;
+    color: #0b132b;
+}
+.list{
+    list-style-type: none;
+}
+.contactshead{
+    text-align: center;
+    margin-top: 10%;
+    padding: 10px;
+    background-color:lightblue;
+    display: inline-block;
+    margin-left: 39%;
+}
+.contactsheadn{
+    text-align: center;
+    margin-left: 44%;
+    margin-top: 10%;
+    background-color:lightblue;
+    display: inline-block;
+    padding: 10px;
+    
+    
+}
+.logo{
+    margin-left: 30px;
+}
+.carousel{
+    margin-left: 500px;
+}
+.moviesheader{
+    text-align: center; 
+    
+}
+.moviesheader:hover{
+    color: lightpink;
+    font-size: 50px;
+}
+.table{
+    margin-left: 250px;
+    margin-top: 100px;
+    
+    
+}
+.tabletext{
+    font-size: 75px;
+    text-align: center;
+}
